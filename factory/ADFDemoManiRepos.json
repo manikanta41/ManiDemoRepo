@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoManiRepos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0a409f0-98cb-4829-8a96-2b9f2f6f1792",
+		"tenantId": "5d5ffb09-5045-4ec0-b4a6-4e76d7432084"
+	}
+}
